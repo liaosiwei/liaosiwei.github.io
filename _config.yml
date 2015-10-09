@@ -1,6 +1,6 @@
-title:            Panic
+title:            Imagination
 description: >
-    start my way
+    out of imagination
 url:              # Site url.
 signoff:          # Your name.
 
@@ -10,10 +10,10 @@ links:
   - name:         Blog
     url:          /
   - name:         Email
-    url:          mailto:domobhaoran@gmail.com
+    url:          mailto:sweeliao@163.com
     external:     true
   - name:         GitHub
-    url:          http://github.com/huhr
+    url:          http://github.com/liaosiwei
     external:     true
 highlighter:      pygments
 permalink:        pretty
