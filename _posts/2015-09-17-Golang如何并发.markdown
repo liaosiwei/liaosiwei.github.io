@@ -2,7 +2,7 @@
 layout: post
 title:  "Golang如何并发"
 date:   2015-09-17 19:25:33
-categories: Golang, share
+categories: share
 ---
 ### Concurrency
 Concurrency is a property of systems in which several computations are executing simultaneously, and potentially interacting with each other，维基百科上这样定义Concurrency。多线程在同一个核内分时执行或者多核下多进程同时执行都可以被称为Concurrency。并发的数学模型已经发展的非常成熟，诸如我们常用的多进程，以及erlang用的Actor模型，golang用的CSP模型等。
